@@ -14,6 +14,20 @@ with the latest Arch's updates. I would love to try climbing 🧗‍♂️ and c
 
 [Reach out to me](mailto:p.aceredag@gmail.com) if you want anything or just... want to talk to me.
 
+----
+
+## Projects
+#### 2020
+- [Machine Learning](https://github.com/PabloAceG/MachineLearning):
+  Code some basic ML classification algorithms.
+- [Computing Project](https://github.com/PabloAceG/ComputingProject): 
+  My dissertation, a research on data metrics' impact on ML algorithms.
+#### 2021
+- [Sorting Algorithms](https://github.com/PabloAceG/sorting-algorithms): 
+  Implementation of some of the most well known sorting algorithms.
+- [Repository Skeletons](https://github.com/PabloAceG/repo-skeleton):
+  A repositories creation script for the laziest of programmers.
+
 <!--
 **PabloAceG/PabloAceG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
